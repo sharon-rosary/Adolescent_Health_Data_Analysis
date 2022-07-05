@@ -1,7 +1,7 @@
 # Adolescent_Health_Data_Analysis
 Adolescents are between the ages of 10 and 19 as defined by the United Nations: Around 1.2 billion people in the world come into this category, accounting for 16% of the global population. Adolescent well-being encompasses many dimensions and UNICEF monitors several indicators. 
 The dataset is sourced from data.unicef.org, UNICEF (United Nations Children’s Funds) it works as a non-governmental organization (NGOs) it advances and protects child’s rights and to provide health care, immunization, nutrition, access to safe water and sanitation services, education, protection, and emergency relief.
-The dataset provides information about factors affecting adolescent’s life across the worldwide. From the dataset we have chosen Demographics, Health and Education. The data taken consist of approximately 3600 records.
+The dataset provides information about factors affecting adolescent’s life across the worldwide. From the dataset we have chosen Demographics, Health and Education. 
 
 Business Questions
 
